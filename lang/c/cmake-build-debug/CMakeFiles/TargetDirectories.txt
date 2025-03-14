@@ -1,0 +1,3 @@
+/Users/unghoe/Library/Mobile Documents/com~apple~CloudDocs/Development/Workspace/Personal/study/lang/c/cmake-build-debug/CMakeFiles/c.dir
+/Users/unghoe/Library/Mobile Documents/com~apple~CloudDocs/Development/Workspace/Personal/study/lang/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/unghoe/Library/Mobile Documents/com~apple~CloudDocs/Development/Workspace/Personal/study/lang/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
